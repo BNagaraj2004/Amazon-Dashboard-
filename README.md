@@ -39,22 +39,18 @@ To design and develop a **data analytics dashboard** that helps visualize and un
 ## 🖼️ Dashboard Preview
 
 ### 🔹 Sales Overview Dashboard
-<img width="1148" height="635" alt="Screenshot 2025-11-05 211831" src="https://github.com/user-attachments/assets/327a796d-01e7-4c6b-b811-9ba7db8431de" />
+<img width="1148" height="635" alt="Screenshot 2025-11-05 211831" src="https://github.com/user-attachments/assets/00cbd67e-c029-4349-ab7d-b996f074938e" />
 
 
 ### 🔹 Product & Category Insights
-<img width="1166" height="641" alt="Screenshot 2025-11-05 211853" src="https://github.com/user-attachments/assets/1ff48521-e55e-4ee5-b934-9f614f2c3881" />
+<img width="1166" height="641" alt="Screenshot 2025-11-05 211853" src="https://github.com/user-attachments/assets/80268bf2-731d-47ae-aa22-f9882d0b110c" />
 
 
 ### 🔹 Regional Analysis
-<img width="1171" height="652" alt="Screenshot 2025-11-05 211907" src="https://github.com/user-attachments/assets/833f433e-2ce5-4f00-9f01-3d77ee66eafb" />
-
+<img width="1171" height="652" alt="Screenshot 2025-11-05 211907" src="https://github.com/user-attachments/assets/46765be0-7d48-4ca5-879a-c6bcbea3b06f" />
 
 ### 🔹 Order Status
-<img width="1165" height="640" alt="Screenshot 2025-11-05 211921" src="https://github.com/user-attachments/assets/1d8df03a-80c0-4a51-aac5-afb7c72bb2b4" />
-
-
-> *(Rename your uploaded screenshots to match these filenames or adjust the image paths above.)*
+<img width="1165" height="640" alt="Screenshot 2025-11-05 211921" src="https://github.com/user-attachments/assets/11faf2bc-aedb-421d-a84e-0c264b2480f2" />
 
 ---
 
@@ -78,6 +74,9 @@ To design and develop a **data analytics dashboard** that helps visualize and un
 1. Download the repository or clone it:
    ```bash
    git clone https://github.com/BNagaraj2004/Amazon-Dashboard.git
+
+---
+
 
 👤 Author
 
